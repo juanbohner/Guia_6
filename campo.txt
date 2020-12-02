@@ -1,0 +1,8 @@
+argc: 5 
+argv[0] = ./extractor 
+argv[1] = -posicion 
+argv[2] = 4 
+argv[3] = -ancho 
+argv[4] = 3 
+5
+a = 4	b = 3
